@@ -1,7 +1,7 @@
 {
   "hub": {
-    "version": "1.0.12",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/1.0.12/hub_dfu_v1.0.12.zip",
+    "version": "1.0.13",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/1.0.13/hub_dfu_v1.0.13.zip",
     "notes": "OTA Test"
   }
 }
