@@ -1,6 +1,6 @@
 {
   "hub": {
-    "version": "blinky_v2",
+    "version": "2",
     "url": "https://github.com/PyroghostX/iyt-releases/releases/download/blinkyv2/blinky_v2.zip",
     "notes": "OTA Test"
   }
