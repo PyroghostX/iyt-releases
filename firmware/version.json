@@ -1,7 +1,7 @@
 {
   "hub": {
-    "version": "1.12.17",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.17/hub_v4_1.12.17.bin",
-    "notes": "First Zephyr/MCUboot OTA"
+    "version": "1.12.18",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.18/hub_v4_1.12.18.bin",
+    "notes": "2nd OTA"
   }
 }
