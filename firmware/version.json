@@ -1,7 +1,7 @@
 {
     "hub":  {
-                "version":  "1.12.23",
-                "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.23/hub_v4_1.12.23.bin",
-                "notes":  "Hub 1.12.23"
+                "version":  "1.12.24",
+                "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.24/hub_v4_1.12.24.bin",
+                "notes":  "Hub 1.12.24"
             }
 }
