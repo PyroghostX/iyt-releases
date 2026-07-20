@@ -3,5 +3,15 @@
                 "version":  "1.12.27",
                 "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.27/hub_v4_1.12.27.bin",
                 "notes":  "Hub 1.12.27"
-            }
+            },
+    "node":  {
+                 "version":  "1.12.27",
+                 "notes":  "Node 1.12.27",
+                 "v3":  {
+                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.27/node_v3_1.12.27.bin"
+                        },
+                 "v4":  {
+                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.27/node_v4_1.12.27.bin"
+                        }
+             }
 }
