@@ -5,13 +5,13 @@
                 "notes":  "Hub 1.12.44"
             },
     "node":  {
-                 "version":  "1.12.44",
-                 "notes":  "Node 1.12.44",
+                 "version":  "1.12.46",
+                 "notes":  "Node 1.12.46",
                  "v3":  {
-                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.44/node_v3_1.12.44.bin"
+                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.46/node_v3_1.12.46.bin"
                         },
                  "v4":  {
-                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.44/node_v4_1.12.44.bin"
+                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.46/node_v4_1.12.46.bin"
                         }
              }
 }
