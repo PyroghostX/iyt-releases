@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.1",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.1/hub_v4_1.13.1.bin",
-    "notes": "Battery safety: the hub chirps and alerts the app at 3.3V and powers itself off at 3.0V to protect the battery (never during an update; press the button to wake after charging). Simultaneous mode now reports the hub button's own pressed state so the app's Press Hub button shows Done."
+    "version": "1.13.4",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.4/hub_v4_1.13.4.bin",
+    "notes": "Late-arriving buttons can now join: the hub opens scan windows at game start and while any add-players screen is open, so a button powered on mid-game connects and can be added. Battery-critical red light is actually red now (RGBW color support). Plus mid-game join correctness fixes."
   },
   "node": {
     "version": "1.13.0",
