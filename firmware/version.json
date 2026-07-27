@@ -5,10 +5,10 @@
     "notes": "Late-arriving buttons can now join: the hub opens scan windows at game start and while any add-players screen is open, so a button powered on mid-game connects and can be added. Battery-critical red light is actually red now (RGBW color support). Plus mid-game join correctness fixes."
   },
   "node": {
-    "version": "1.13.0",
-    "notes": "Battery safety: at 3.3V the node refuses game presses (denied tone + red blip) until charged above 3.4V; at 3.0V it powers off to protect the cell (button wakes it; below 3.05V at boot it goes straight back off). Never fires mid-OTA; a broken battery sensor can never power the node off.",
+    "version": "1.13.4",
+    "notes": "Locate now flashes the full 30 seconds (routine LED traffic no longer cancels it) and the low-battery warning light is actually red.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.0/node_v4_1.13.0.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.4/node_v4_1.13.4.bin"
     }
   }
 }
