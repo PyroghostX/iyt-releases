@@ -1,17 +1,14 @@
 {
-    "hub":  {
-                "version":  "1.12.53",
-                "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.53/hub_v4_1.12.53.bin",
-                "notes":  "Hub 1.12.53"
-            },
-    "node":  {
-                 "version":  "1.12.53",
-                 "notes":  "Node 1.12.53",
-                 "v3":  {
-                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.53/node_v3_1.12.53.bin"
-                        },
-                 "v4":  {
-                            "url":  "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.53/node_v4_1.12.53.bin"
-                        }
-             }
+  "hub": {
+    "version": "1.12.53",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.12.53/hub_v4_1.12.53.bin",
+    "notes": "Hub 1.12.53"
+  },
+  "node": {
+    "version": "1.13.0",
+    "notes": "Battery safety: at 3.3V the node refuses game presses (denied tone + red blip) until charged above 3.4V; at 3.0V it powers off to protect the cell (button wakes it; below 3.05V at boot it goes straight back off). Never fires mid-OTA; a broken battery sensor can never power the node off.",
+    "v4": {
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.0/node_v4_1.13.0.bin"
+    }
+  }
 }
