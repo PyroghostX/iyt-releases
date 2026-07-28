@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.4",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.4/hub_v4_1.13.4.bin",
-    "notes": "Late-arriving buttons can now join: the hub opens scan windows at game start and while any add-players screen is open, so a button powered on mid-game connects and can be added. Battery-critical red light is actually red now (RGBW color support). Plus mid-game join correctness fixes."
+    "version": "1.13.6",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.6/hub_v4_1.13.6.bin",
+    "notes": "Low-battery redesign: buttons stay playable while warning (red flashes), bow out cleanly at 3.1V with a charge prompt on the hub and app. Fixes connected buttons vanishing from the app's lists until a hub reboot."
   },
   "node": {
     "version": "1.13.4",
