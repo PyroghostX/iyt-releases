@@ -5,10 +5,10 @@
     "notes": "Low-battery redesign: buttons stay playable while warning (red flashes), bow out cleanly at 3.1V with a charge prompt on the hub and app. Fixes connected buttons vanishing from the app's lists until a hub reboot."
   },
   "node": {
-    "version": "1.13.4",
-    "notes": "Locate now flashes the full 30 seconds (routine LED traffic no longer cancels it) and the low-battery warning light is actually red.",
+    "version": "1.13.6",
+    "notes": "Low-battery redesign: readable red warnings (1s red / 5s normal while lit, red breathing otherwise), still fully playable; at 3.1V the button disconnects itself and breathes red until charged. Power-off protection unchanged.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.4/node_v4_1.13.4.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.6/node_v4_1.13.6.bin"
     }
   }
 }
