@@ -5,10 +5,10 @@
     "notes": "Every button now gets a guaranteed-unique tone (assigned by the hub, no more two buttons sharing one). Hub button presses are silent in-game like the nodes."
   },
   "node": {
-    "version": "1.13.13",
-    "notes": "Unique tones now play only when it's actually your turn — other lights come with the normal short beep. Chirp length defaults to 3x.",
+    "version": "1.13.15",
+    "notes": "Retuned tones: a wider, lower musical spread (262-1397Hz) with hub-assigned unique slots so no two buttons ever share a tone.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.13/node_v4_1.13.13.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.15/node_v4_1.13.15.bin"
     }
   }
 }
