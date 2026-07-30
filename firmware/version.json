@@ -5,10 +5,10 @@
     "notes": "No more 'Clearing storage' interrupting a live game (it waits for the home screen now), and reconnecting buttons get their lights corrected immediately, even while a disconnect prompt is up."
   },
   "node": {
-    "version": "1.13.9",
-    "notes": "Every button now has its own two-tone chirp so you can tell whose sounded. Reconnect light fix rides along from the hub side.",
+    "version": "1.13.10",
+    "notes": "Buttons now register presses even while beeping — a player being hurry-buzzed can always press to end their turn. Beeps play in the background instead of freezing the button.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.9/node_v4_1.13.9.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.10/node_v4_1.13.10.bin"
     }
   }
 }
