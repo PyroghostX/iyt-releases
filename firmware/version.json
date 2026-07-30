@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.11",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.11/hub_v4_1.13.11.bin",
-    "notes": "Supports the new adjustable button chirp length (Settings slider in app 1.10.41)."
+    "version": "1.13.12",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.12/hub_v4_1.13.12.bin",
+    "notes": "Hub gets its own turn tone, and supports the new 1x-10x button chirp length range."
   },
   "node": {
     "version": "1.13.11",
