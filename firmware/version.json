@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.9",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.9/hub_v4_1.13.9.bin",
-    "notes": "No more 'Clearing storage' interrupting a live game (it waits for the home screen now), and reconnecting buttons get their lights corrected immediately, even while a disconnect prompt is up."
+    "version": "1.13.11",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.11/hub_v4_1.13.11.bin",
+    "notes": "Supports the new adjustable button chirp length (Settings slider in app 1.10.41)."
   },
   "node": {
     "version": "1.13.10",
