@@ -5,10 +5,10 @@
     "notes": "Hub gets its own turn tone, and supports the new 1x-10x button chirp length range."
   },
   "node": {
-    "version": "1.13.11",
-    "notes": "Buttons are much louder: chirps now play at the buzzer's resonant pitch and are 3x longer by default (adjustable in the app's settings).",
+    "version": "1.13.12",
+    "notes": "Quieter, cleaner sounds: no beep on press, one lower-pitched tone per button (each still unique), and chirp length now adjustable 1x-10x in the app.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.11/node_v4_1.13.11.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.12/node_v4_1.13.12.bin"
     }
   }
 }
