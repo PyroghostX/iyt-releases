@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.13",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.13/hub_v4_1.13.13.bin",
-    "notes": "Turn sounds refined: each button's unique tone now plays only for real turn cues; the hub's own turn tone follows the chirp-length setting fully."
+    "version": "1.13.14",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.14/hub_v4_1.13.14.bin",
+    "notes": "Every turn now plays the right sound: two missed paths (hub button ending its turn, and Skip player) sent the plain light — the next button beeped normally instead of its own tone."
   },
   "node": {
     "version": "1.13.13",
