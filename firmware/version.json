@@ -5,10 +5,10 @@
     "notes": "Version alignment with node 1.13.7 (silent-nudge round). No hub behavior change since 1.13.6."
   },
   "node": {
-    "version": "1.13.6",
-    "notes": "Low-battery redesign: readable red warnings (1s red / 5s normal while lit, red breathing otherwise), still fully playable; at 3.1V the button disconnects itself and breathes red until charged. Power-off protection unchanged.",
+    "version": "1.13.7",
+    "notes": "Nudging another player no longer beeps your own button — you get a soft white glow while pressing instead. Only the nudged player hears the buzz.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.6/node_v4_1.13.6.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.7/node_v4_1.13.7.bin"
     }
   }
 }
