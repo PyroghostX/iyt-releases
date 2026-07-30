@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.12",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.12/hub_v4_1.13.12.bin",
-    "notes": "Hub gets its own turn tone, and supports the new 1x-10x button chirp length range."
+    "version": "1.13.13",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.13/hub_v4_1.13.13.bin",
+    "notes": "Turn sounds refined: each button's unique tone now plays only for real turn cues; the hub's own turn tone follows the chirp-length setting fully."
   },
   "node": {
     "version": "1.13.12",
