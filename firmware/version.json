@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.7",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.7/hub_v4_1.13.7.bin",
-    "notes": "Version alignment with node 1.13.7 (silent-nudge round). No hub behavior change since 1.13.6."
+    "version": "1.13.9",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.9/hub_v4_1.13.9.bin",
+    "notes": "No more 'Clearing storage' interrupting a live game (it waits for the home screen now), and reconnecting buttons get their lights corrected immediately, even while a disconnect prompt is up."
   },
   "node": {
     "version": "1.13.7",
