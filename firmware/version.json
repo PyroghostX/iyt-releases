@@ -5,10 +5,10 @@
     "notes": "Supports the new adjustable button chirp length (Settings slider in app 1.10.41)."
   },
   "node": {
-    "version": "1.13.10",
-    "notes": "Buttons now register presses even while beeping — a player being hurry-buzzed can always press to end their turn. Beeps play in the background instead of freezing the button.",
+    "version": "1.13.11",
+    "notes": "Buttons are much louder: chirps now play at the buzzer's resonant pitch and are 3x longer by default (adjustable in the app's settings).",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.10/node_v4_1.13.10.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.11/node_v4_1.13.11.bin"
     }
   }
 }
