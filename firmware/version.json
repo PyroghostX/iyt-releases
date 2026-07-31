@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.13.15",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.15/hub_v4_1.13.15.bin",
-    "notes": "Every button now gets a guaranteed-unique tone (assigned by the hub, no more two buttons sharing one). Hub button presses are silent in-game like the nodes."
+    "version": "1.13.16",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.16/hub_v4_1.13.16.bin",
+    "notes": "The hub no longer beeps when you press it to end its turn — its tone now plays only when its own turn starts."
   },
   "node": {
     "version": "1.13.15",
