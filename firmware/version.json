@@ -5,10 +5,10 @@
     "notes": "Server mode merged to master. Hub gains no new behaviour of its own beyond the 1.14.0-1.14.2 timing and blocking-call fixes; sound follows master's 1.13.15 silence."
   },
   "node": {
-    "version": "1.13.15",
-    "notes": "Retuned tones: a wider, lower musical spread (262-1397Hz) with hub-assigned unique slots so no two buttons ever share a tone.",
+    "version": "1.14.3",
+    "notes": "Silent presses everywhere, non-blocking tone sequencer, and the retuned per-button tones — the node half of the master merge.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.13.15/node_v4_1.13.15.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.3/node_v4_1.14.3.bin"
     }
   }
 }
