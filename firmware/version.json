@@ -5,10 +5,10 @@
     "notes": "Beep until confirmed, corrected: solid tone, first press confirms (turn keeps running), second press passes the turn. The hub swallows the confirm press for nodes and phones alike, and beeps solid for its own turn."
   },
   "node": {
-    "version": "1.14.5",
-    "notes": "Retuned tones: 523-1319Hz C-major spread — every button now lives in the piezo's loud band (the old two lowest were quiet). Plus beep-until-confirmed: the turn chirp repeats every ~2s until you press, when enabled in the app.",
+    "version": "1.14.6",
+    "notes": "Beep until confirmed, corrected: the turn cue is a solid tone that stops on your first press (which confirms — the turn keeps running); your second press passes it on. Includes the 523-1319Hz retune from 1.14.5.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.5/node_v4_1.14.5.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.6/node_v4_1.14.6.bin"
     }
   }
 }
