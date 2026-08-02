@@ -5,10 +5,10 @@
     "notes": "Beep-until-confirmed fixes: the 10s LED refresh no longer resets a confirmed turn (the second press always passes it on now)."
   },
   "node": {
-    "version": "1.14.6",
-    "notes": "Beep until confirmed, corrected: the turn cue is a solid tone that stops on your first press (which confirms — the turn keeps running); your second press passes it on. Includes the 523-1319Hz retune from 1.14.5.",
+    "version": "1.14.7",
+    "notes": "Beep-until-confirmed fixes: the button stays LIT through your confirm press (dark only after the pass-it-on press), and two presses ~500ms apart now register (cooldown 250ms in confirm mode).",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.6/node_v4_1.14.6.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.7/node_v4_1.14.7.bin"
     }
   }
 }
