@@ -5,10 +5,10 @@
     "notes": "Beep until confirmed: optional repeat of the turn chirp every ~2s until the turn is taken (either/or with the chirp-length slider, now up to 20x). The hub repeats for its own player turn and relays the mode to nodes."
   },
   "node": {
-    "version": "1.14.3",
-    "notes": "Silent presses everywhere, non-blocking tone sequencer, and the retuned per-button tones — the node half of the master merge.",
+    "version": "1.14.5",
+    "notes": "Retuned tones: 523-1319Hz C-major spread — every button now lives in the piezo's loud band (the old two lowest were quiet). Plus beep-until-confirmed: the turn chirp repeats every ~2s until you press, when enabled in the app.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.3/node_v4_1.14.3.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.5/node_v4_1.14.5.bin"
     }
   }
 }
