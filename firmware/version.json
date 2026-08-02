@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.14.3",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.3/hub_v4_1.14.3.bin",
-    "notes": "Server mode merged to master. Hub gains no new behaviour of its own beyond the 1.14.0-1.14.2 timing and blocking-call fixes; sound follows master's 1.13.15 silence."
+    "version": "1.14.5",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.5/hub_v4_1.14.5.bin",
+    "notes": "Beep until confirmed: optional repeat of the turn chirp every ~2s until the turn is taken (either/or with the chirp-length slider, now up to 20x). The hub repeats for its own player turn and relays the mode to nodes."
   },
   "node": {
     "version": "1.14.3",
