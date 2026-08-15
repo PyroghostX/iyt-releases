@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.15.0",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.15.0/hub_v4_1.15.0.bin",
-    "notes": "21-seat roster: 20 players + hub, any mix of buttons/phones. Roster-full refusals surface (no more silently dropped players), mini-game status chunking, radio budget 8 nodes + 11 phones (BT_MAX_CONN 20), central spacing 3.75ms. hub.conf changed: SWD flash (merged.hex) recommended per flash rules. Stats history resets once."
+    "version": "1.17.10",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.10/hub_v4_1.17.10.bin",
+    "notes": "Reset hub now keeps paired nodes; hub ID is permanent (factory FICR-derived)"
   },
   "node": {
     "version": "1.14.7",
