@@ -5,10 +5,10 @@
     "notes": "Reset hub now keeps paired nodes; hub ID is permanent (factory FICR-derived)"
   },
   "node": {
-    "version": "1.14.7",
-    "notes": "Beep-until-confirmed fixes: the button stays LIT through your confirm press (dark only after the pass-it-on press), and two presses ~500ms apart now register (cooldown 250ms in confirm mode).",
+    "version": "1.17.10",
+    "notes": "Node ID is now permanent (factory FICR-derived) — survives every factory reset",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.14.7/node_v4_1.14.7.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.10/node_v4_1.17.10.bin"
     }
   }
 }
