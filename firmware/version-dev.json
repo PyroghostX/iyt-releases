@@ -1,0 +1,14 @@
+{
+  "hub": {
+    "version": "1.17.21",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.21/hub_v4_1.17.21.bin",
+    "notes": "Wake-the-buttons guidance; new hubs show their pairing code; PIN screen no longer advises a factory wipe; wipe needs a 9s hold and only on cold boot; a 9th button is no longer orphaned; storage failures reported honestly; a vanished phone no longer strands the hub"
+  },
+  "node": {
+    "version": "1.17.21",
+    "notes": "Presses are timed when you press, not when you let go (reaction times were 200-500ms too high); a press held longer than 0.7s is no longer silently discarded; wipe needs a 9s hold and only on a cold boot",
+    "v4": {
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.21/node_v4_1.17.21.bin"
+    }
+  }
+}
