@@ -5,10 +5,10 @@
     "notes": "One-tap Join Another Hub's Game; skip a player's next turn; leave-node-mode confirm; 3h untouched sleep (wake-press can no longer trigger a factory wipe); faster reconnect - 3s in-game detection, no more going deaf while a node is missing, and reconnect time is now measured"
   },
   "node": {
-    "version": "1.17.10",
-    "notes": "Node ID is now permanent (factory FICR-derived) — survives every factory reset",
+    "version": "1.17.13",
+    "notes": "3h untouched deep sleep (a turn cue counts as use, so a node can't sleep out of a long game); waking by button can no longer run into the factory-wipe countdown; cleaner disconnect when sleeping while still connected",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.10/node_v4_1.17.10.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.13/node_v4_1.17.13.bin"
     }
   }
 }
