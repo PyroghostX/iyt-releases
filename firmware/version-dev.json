@@ -5,10 +5,10 @@
     "notes": "Broadcasts why a node dropped (NDROP with the HCI reason) so 'this button keeps disconnecting' is diagnosable from the app log alone"
   },
   "node": {
-    "version": "1.17.21",
-    "notes": "Presses are timed when you press, not when you let go (reaction times were 200-500ms too high); a press held longer than 0.7s is no longer silently discarded; wipe needs a 9s hold and only on a cold boot",
+    "version": "1.17.22",
+    "notes": "Rebuild at 1.17.22 to match the hub (no node-side logic change since 1.17.21)",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.21/node_v4_1.17.21.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.22/node_v4_1.17.22.bin"
     }
   }
 }
