@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.17.23",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.23/hub_v4_1.17.23.bin",
-    "notes": "Every in-game status line now states the game mode, so the app reads it instead of inferring it (fixes Beep-until-confirmed reappearing in simultaneous games)"
+    "version": "1.17.25",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.25/hub_v4_1.17.25.bin",
+    "notes": "Game mode and sound state now on every in-game status line; list replies carry an end sentinel with a row count so a truncated reply can no longer be mistaken for a short one"
   },
   "node": {
     "version": "1.17.22",
