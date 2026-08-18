@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.17.22",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.22/hub_v4_1.17.22.bin",
-    "notes": "Broadcasts why a node dropped (NDROP with the HCI reason) so 'this button keeps disconnecting' is diagnosable from the app log alone"
+    "version": "1.17.26",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.26/hub_v4_1.17.26.bin",
+    "notes": "Hub-full offer that stays on screen; PAIR_START adopts an open pairing session (fw 1.17.26)"
   },
   "node": {
     "version": "1.17.22",
