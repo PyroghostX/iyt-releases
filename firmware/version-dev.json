@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "1.17.26",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.26/hub_v4_1.17.26.bin",
-    "notes": "Hub-full offer that stays on screen; PAIR_START adopts an open pairing session (fw 1.17.26)"
+    "version": "1.17.27",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.27/hub_v4_1.17.27.bin",
+    "notes": "Brought-along buttons get the host's chirp config and a name; a hub in node mode learns who it is (fw 1.17.27)"
   },
   "node": {
     "version": "1.17.25",
