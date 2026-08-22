@@ -5,10 +5,10 @@
     "notes": "Hub 1.18.0"
   },
   "node": {
-    "version": "1.17.25",
-    "notes": "Version alignment with the hub — no node-side logic change since 1.17.21 (press-down timing and the long-press fix)",
+    "version": "1.18.0",
+    "notes": "Node 1.18.0",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.17.25/node_v4_1.17.25.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.18.0/node_v4_1.18.0.bin"
     }
   }
 }
