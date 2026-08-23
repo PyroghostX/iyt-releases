@@ -5,10 +5,13 @@
     "notes": "Hub 1.19.0"
   },
   "node": {
-    "version": "1.18.2",
-    "notes": "Node 1.18.2",
+    "version": "1.19.0",
+    "notes": "Node 1.19.0",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.18.2/node_v4_1.18.2.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.19.0/node_v4_1.19.0.bin"
+    },
+    "v3": {
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.19.0/node_v3_1.19.0.bin"
     }
   }
 }
