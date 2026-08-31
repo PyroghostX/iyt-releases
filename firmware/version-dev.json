@@ -11,13 +11,13 @@
     }
   },
   "node": {
-    "version": "1.23.0",
-    "notes": "Node 1.23.0",
+    "version": "1.25.0",
+    "notes": "Node 1.25.0",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.23.0/node_v4_1.23.0.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.0/node_v4_1.25.0.bin"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.23.0/node_v3_1.23.0.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.0/node_v3_1.25.0.bin"
     }
   }
 }
