@@ -1,16 +1,16 @@
 {
   "hub": {
-    "version": "1.25.3",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/hub_v4_1.25.3.bin",
-    "sha256": "5422358e64ba179b9462a7a674920a4ac9f0af2931fb44ca8c98b2e5b46f96df",
-    "notes": "Hub 1.25.3 (dev) — since 1.25.1: strict NUS parsing (STATS2_GET/EVENTS, MINI2_START tokens, CHIRPLEN via parse_uint32), %3d node-version parse, MPU stack guard (HW_STACK_PROTECTION), OTA manifests now carry sha256 per image. No wire changes.",
+    "version": "1.26.0",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.0/hub_v4_1.26.0.bin",
+    "sha256": "4eb4137068d71f9ac6c71b04b0a245867b3f9c325322d79412926996de41c778",
+    "notes": "fw 1.26.0: drawn player starts the round, stats that add up, wake-and-reconnect gate, LED sleep latch",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/hub_v4_1.25.3.bin",
-      "sha256": "5422358e64ba179b9462a7a674920a4ac9f0af2931fb44ca8c98b2e5b46f96df"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.0/hub_v4_1.26.0.bin",
+      "sha256": "4eb4137068d71f9ac6c71b04b0a245867b3f9c325322d79412926996de41c778"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/hub_v3_1.25.3.bin",
-      "sha256": "ef34be0848c79ff45db6b2075a8a6ec6c847feff8001e8bbe76e7a4106d69cd2"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.0/hub_v3_1.26.0.bin",
+      "sha256": "86f9329709225b4978c4b441d94caff1c59537336f6e927c14570b7d29411e4c"
     }
   },
   "node": {
