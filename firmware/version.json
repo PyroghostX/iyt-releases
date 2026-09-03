@@ -1,13 +1,16 @@
 {
   "hub": {
-    "version": "1.21.1",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.21.1/hub_v4_1.21.1.bin",
-    "notes": "Fixes the boot chime playing its first tone at full volume before the hub had read its saved volume setting. A muted hub no longer chirps once on boot either.",
+    "version": "1.25.3",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/hub_v4_1.25.3.bin",
+    "sha256": "5422358e64ba179b9462a7a674920a4ac9f0af2931fb44ca8c98b2e5b46f96df",
+    "notes": "Hub 1.25.3 — Slow Turn Alerts live on the hub and synced between phones; all-at-once Reaction rounds with truthful lights; unfinished turns now count in stats; fixes for the frozen 'Updating…' screen and the loud boot beep; phones join games like buttons; live turn clock; buzzes in each player's own pitch; stricter command handling and stack-overflow protection.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.21.1/hub_v4_1.21.1.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/hub_v4_1.25.3.bin",
+      "sha256": "5422358e64ba179b9462a7a674920a4ac9f0af2931fb44ca8c98b2e5b46f96df"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.21.1/hub_v3_1.21.1.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/hub_v3_1.25.3.bin",
+      "sha256": "ef34be0848c79ff45db6b2075a8a6ec6c847feff8001e8bbe76e7a4106d69cd2"
     }
   },
   "node": {
