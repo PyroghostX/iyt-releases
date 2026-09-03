@@ -14,13 +14,15 @@
     }
   },
   "node": {
-    "version": "1.19.0",
-    "notes": "Node 1.19.0",
+    "version": "1.25.3",
+    "notes": "Node 1.25.3 — per-button volume (with hub 1.21.0+); quiet Reaction GO and the confirm-press fix; volume remembered across sleep; buzzes in your button's own pitch; 60 s watchdog and stack-overflow protection.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.19.0/node_v4_1.19.0.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/node_v4_1.25.3.bin",
+      "sha256": "dfe0093cabbc082a6bddf1d7788603d50dfd0d2f1410223953f972c773f4ecbd"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.19.0/node_v3_1.19.0.bin"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/node_v3_1.25.3.bin",
+      "sha256": "e6fbc77fd68b729a8cec8f1e98ec4393d055a809a44b5745f14c8f5ec941fd0d"
     }
   }
 }
