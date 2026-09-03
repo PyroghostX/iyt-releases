@@ -14,15 +14,15 @@
     }
   },
   "node": {
-    "version": "1.25.3",
-    "notes": "Node 1.25.3 (dev) — since 1.25.1: 60 s watchdog fed from the main loop (D29), MPU stack guard. No wire changes.",
+    "version": "1.26.0",
+    "notes": "fw 1.26.0: LED sleep latch, phantom-node guards (node half of the 1.26.0 pair)",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/node_v4_1.25.3.bin",
-      "sha256": "dfe0093cabbc082a6bddf1d7788603d50dfd0d2f1410223953f972c773f4ecbd"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.0/node_v4_1.26.0.bin",
+      "sha256": "37e0090907d9b6e8179a60558ad718430ece130a15ebf47bc876e69575a7b756"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.25.3/node_v3_1.25.3.bin",
-      "sha256": "e6fbc77fd68b729a8cec8f1e98ec4393d055a809a44b5745f14c8f5ec941fd0d"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.0/node_v3_1.26.0.bin",
+      "sha256": "3c7cebd1ba214dde712383f98797a5e340db52a65c1e9797d6448c9621ecbeaf"
     }
   }
 }
