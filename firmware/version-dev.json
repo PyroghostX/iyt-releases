@@ -14,15 +14,15 @@
     }
   },
   "node": {
-    "version": "1.26.0",
-    "notes": "fw 1.26.0: LED sleep latch, phantom-node guards (node half of the 1.26.0 pair)",
+    "version": "1.26.2",
+    "notes": "Node 1.26.2",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.0/node_v4_1.26.0.bin",
-      "sha256": "37e0090907d9b6e8179a60558ad718430ece130a15ebf47bc876e69575a7b756"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.2/node_v4_1.26.2.bin",
+      "sha256": "b07810d4d7c7f7e6f55d4cdd0c317acfb6b704056460062e35690294f83d1546"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.0/node_v3_1.26.0.bin",
-      "sha256": "3c7cebd1ba214dde712383f98797a5e340db52a65c1e9797d6448c9621ecbeaf"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.2/node_v3_1.26.2.bin",
+      "sha256": "760e32077fefa5dca2c8c1d3380424a2dac52426f9e4080e7596b4d3cdf5b26b"
     }
   }
 }
