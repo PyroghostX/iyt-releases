@@ -14,15 +14,15 @@
     }
   },
   "node": {
-    "version": "1.26.2",
-    "notes": "Node 1.26.2",
+    "version": "1.26.5",
+    "notes": "Node 1.26.5",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.2/node_v4_1.26.2.bin",
-      "sha256": "b07810d4d7c7f7e6f55d4cdd0c317acfb6b704056460062e35690294f83d1546"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.5/node_v4_1.26.5.bin",
+      "sha256": "62ac7f4d9eb9e9c5b66bf7fa7a0f40077818619441406f7ded7ff70272589d32"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.2/node_v3_1.26.2.bin",
-      "sha256": "760e32077fefa5dca2c8c1d3380424a2dac52426f9e4080e7596b4d3cdf5b26b"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.5/node_v3_1.26.5.bin",
+      "sha256": "57745fa0485077505c90b0adf8c1061e8de1388e886792184090b2eb541af968"
     }
   }
 }
