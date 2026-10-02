@@ -18,19 +18,19 @@
     }
   },
   "node": {
-    "version": "1.26.16",
-    "notes": "Node 1.26.16",
+    "version": "1.26.17",
+    "notes": "V5: range workarounds removed (1M PHY test build)",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.16/node_v4_1.26.16.bin",
-      "sha256": "78ab5e5d2bac8e40fcc936b9ff3f0563d65e556a5315f18fcd2925f1944ee4ab"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.17/node_v4_1.26.17.bin",
+      "sha256": "d6919d695709dacbb0c70dcf349e0cf9c20defc2b4a2f20ab8bc34b16a681566"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.16/node_v3_1.26.16.bin",
-      "sha256": "7ad8104f2077c31c72f4b50d98370841653b5d26c36a566c0e18ef8c837727c4"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.17/node_v3_1.26.17.bin",
+      "sha256": "dc874c869956cf04f19fa5baf312ca38e715bd2708a6ae61a22457fb1d20b7aa"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.16/node_v5_1.26.16.bin",
-      "sha256": "b9c8c99ba9567efb5f2f8f9fc82cea2001c9887204fdd1a480cfc6d230907bb0"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.17/node_v5_1.26.17.bin",
+      "sha256": "7aa2f38c8808eef28e82d66e7e82455e90f5ab9854d1f2e1c4e09e0c3462912e"
     }
   }
 }
