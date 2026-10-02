@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.20",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.20/hub_v4_1.26.20.bin",
-    "sha256": "cbbd96c7c6d5f1c8f1c53ecb554561ab5120e9db4c0dbff2ce15fe2933356530",
-    "notes": "Hub Button Mode: presses nudge, holds as usual (no 3 s exit); update-slot cleanup ~0.2 s; quieter low volumes in game",
+    "version": "1.26.21",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.21/hub_v4_1.26.21.bin",
+    "sha256": "fc3d3c7ed2774a22e58842bb73388b36de9dfc62a9db5788ce77b5d0cf9e5406",
+    "notes": "Slow Turn Alerts: a changed interval applies at once; defaults 3 min / 30 s / 0.6 s",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.20/hub_v4_1.26.20.bin",
-      "sha256": "cbbd96c7c6d5f1c8f1c53ecb554561ab5120e9db4c0dbff2ce15fe2933356530"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.21/hub_v4_1.26.21.bin",
+      "sha256": "fc3d3c7ed2774a22e58842bb73388b36de9dfc62a9db5788ce77b5d0cf9e5406"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.20/hub_v3_1.26.20.bin",
-      "sha256": "c66b886f3147e62f2a75ba54d8173766a8c65f7b7588973320dbbf7093ee2458"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.21/hub_v3_1.26.21.bin",
+      "sha256": "5efc66557ca6fb3b2ebd1f5bda77b12d6b071c7f16c1b50fb6bde386ffb385f2"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.20/hub_v5_1.26.20.bin",
-      "sha256": "794164f05ec5dcc46444e5ddf1e6eb90555e5740be3a8f87b46631c033a188ba"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.21/hub_v5_1.26.21.bin",
+      "sha256": "b4913ab016add2e8ae33dafd0064f0b9e686258a540b3f26e0aaacc749625a88"
     }
   },
   "node": {
