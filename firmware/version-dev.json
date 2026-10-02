@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.16",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.16/hub_v4_1.26.16.bin",
-    "sha256": "5abd680087a7506c8ec5856192c4a54e28d53ab6603a0a90e7a5fbee1a68dcb7",
-    "notes": "Hub 1.26.16",
+    "version": "1.26.17",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.17/hub_v4_1.26.17.bin",
+    "sha256": "d643cca2e71e5a877311c9d7216acaa0e5bb376e701c4f4b43434b58174389e6",
+    "notes": "V5: range workarounds removed (1M PHY test build)",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.16/hub_v4_1.26.16.bin",
-      "sha256": "5abd680087a7506c8ec5856192c4a54e28d53ab6603a0a90e7a5fbee1a68dcb7"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.17/hub_v4_1.26.17.bin",
+      "sha256": "d643cca2e71e5a877311c9d7216acaa0e5bb376e701c4f4b43434b58174389e6"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.16/hub_v3_1.26.16.bin",
-      "sha256": "c10456e6d4ee68942e00c92f3eacaf2546f04f9d5e2c7f167b461a4f537e0001"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.17/hub_v3_1.26.17.bin",
+      "sha256": "a266cb1182b709fd79d247cbccd2478db0c8ab0d76440da5c36b0f5785f5a03e"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.16/hub_v5_1.26.16.bin",
-      "sha256": "04a78a20084cd7dff6204c84e65fd409dc4f0bf4fbe67adb0e9c6920ca7c071d"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.17/hub_v5_1.26.17.bin",
+      "sha256": "c9f795201be6110c6534cefe6a9c346ed2f155003fcd50f879cf33aa366740c3"
     }
   },
   "node": {
