@@ -18,19 +18,19 @@
     }
   },
   "node": {
-    "version": "1.26.19",
-    "notes": "V5: adaptive PHY (1M when strong, Coded when weak), split latency, Coded discovery",
+    "version": "1.26.20",
+    "notes": "Quieter low volume steps in game; volume preview plays the button's own pitch",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.19/node_v4_1.26.19.bin",
-      "sha256": "2305b85589b0d5d72b4e4b39f983b6876a4a66f0c232cab576b5644f04af128e"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.20/node_v4_1.26.20.bin",
+      "sha256": "87248e2516dfa4d45b32b0acb783d4efa971af267fd06b5eb8438dce4cd730d2"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.19/node_v3_1.26.19.bin",
-      "sha256": "7dc4096eb2b0e1ce4602c570a71d64132d7c5cfa7bf05b6acfacaed56a79aa30"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.20/node_v3_1.26.20.bin",
+      "sha256": "854009c0c359c8d8022f35d360adb1cbb37080e90549c6f41cd83518f584efde"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.19/node_v5_1.26.19.bin",
-      "sha256": "be7142fbe7fdda48694f120f575c2b7b173571449b0d3ea45c48f4b032dc1466"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.20/node_v5_1.26.20.bin",
+      "sha256": "9df037ba9b21c8bdb18d78b8332412bd3441c2495348773f49093e4e3532ea97"
     }
   }
 }
