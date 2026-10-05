@@ -18,19 +18,19 @@
     }
   },
   "node": {
-    "version": "1.26.31",
-    "notes": "Node 1.26.31: audit fixes - unpair forgets the old hub's mute and LED color, V5 charge-mode LED",
+    "version": "1.26.37",
+    "notes": "Node 1.26.37: audit fix - Keep awake ends when a button is unpaired",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.31/node_v4_1.26.31.bin",
-      "sha256": "4b1b3b24b5ecabe7998f7e0ce84c6eaf81a7efa045d0bf5f713dadb172f3d306"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/node_v4_1.26.37.bin",
+      "sha256": "4ed602637f6717dae0dbc11702b545e8749db7a4de6fbfad3eead7b75ea058dc"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.31/node_v3_1.26.31.bin",
-      "sha256": "3cf6db056ffb17fe0bf533545b146c5883fdafbd56415344c422797d8cade3e0"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/node_v3_1.26.37.bin",
+      "sha256": "cc3931679244fcf0cc835b96b29051a58bce0046f376fc4921f8260dd0853450"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.31/node_v5_1.26.31.bin",
-      "sha256": "73449c2d972c51c82be3d9535d0eee161211e9d15c415bb6cd70499568318819"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/node_v5_1.26.37.bin",
+      "sha256": "c57812b6a7a0176e3ec9d98848574b4a6de6e7a9b57d9fb087e17bf2e5ae1df0"
     }
   }
 }
