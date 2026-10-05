@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.32",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.32/hub_v4_1.26.32.bin",
-    "sha256": "6e86f61920c64fa1077be62913da6eb8ea4fd94fce7fd4c5e99aa66a33d389c3",
-    "notes": "Hub 1.26.32: audit fixes - a mini-game played from the pause screen leaves the game paused",
+    "version": "1.26.37",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/hub_v4_1.26.37.bin",
+    "sha256": "419fab87ec36693f0c0a6dffbfd65176b177587e1c7c6396a83de76ae5537cd5",
+    "notes": "Hub 1.26.37: audit fixes - pause and mini-game clock cases, a refused mini-game start leaves a running one alone, hub ignores a black LED color",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.32/hub_v4_1.26.32.bin",
-      "sha256": "6e86f61920c64fa1077be62913da6eb8ea4fd94fce7fd4c5e99aa66a33d389c3"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/hub_v4_1.26.37.bin",
+      "sha256": "419fab87ec36693f0c0a6dffbfd65176b177587e1c7c6396a83de76ae5537cd5"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.32/hub_v3_1.26.32.bin",
-      "sha256": "5b137f1394e264cf64e9afd4b9fed753f5bb5ece57fa9c5244dd79a52776f12b"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/hub_v3_1.26.37.bin",
+      "sha256": "30b87dcf62cfa64d93d57197b7d9ee6bcfdfa5e618d1629e7a8ceb2e9ec26d3a"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.32/hub_v5_1.26.32.bin",
-      "sha256": "9bec0878f4889783c8aa36424c41c53d81d66c666b2a42c5dd5bd21f6f6efab1"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/hub_v5_1.26.37.bin",
+      "sha256": "694f2d619fa398d15bb9a2b3d0f509eb486bb0175303916353164908e559a34f"
     }
   },
   "node": {
