@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.26",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.26/hub_v4_1.26.26.bin",
-    "sha256": "da6d63e0eacaa92fb99d455208e21100105671fe4e7fa6749f25a23b2a94e06d",
-    "notes": "Hub 1.26.26",
+    "version": "1.26.29",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.29/hub_v4_1.26.29.bin",
+    "sha256": "ad5e5a6720b13ca61d518ae196eec79bd7291c88b2e5cd74b137a2cb5c048703",
+    "notes": "Hub 1.26.29: audit fixes - whole-game clock after a sleep, turn clock around mini-games",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.26/hub_v4_1.26.26.bin",
-      "sha256": "da6d63e0eacaa92fb99d455208e21100105671fe4e7fa6749f25a23b2a94e06d"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.29/hub_v4_1.26.29.bin",
+      "sha256": "ad5e5a6720b13ca61d518ae196eec79bd7291c88b2e5cd74b137a2cb5c048703"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.26/hub_v3_1.26.26.bin",
-      "sha256": "aac8e46f4758962fbd9ac8ce9bdac6933557d0967611cfb41fd4c511a15c439a"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.29/hub_v3_1.26.29.bin",
+      "sha256": "51c615a154ca50b9f923348e698e21f56ff319ed088bff8b82528aef362b44a2"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.26/hub_v5_1.26.26.bin",
-      "sha256": "2902074b099442b9869dbe832321b26f2ac4f925488ea6d2710bb779e7d5c483"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.29/hub_v5_1.26.29.bin",
+      "sha256": "7734b259903dd6c4fd20b9c6c4c622b1a630edc4d0177fc6eb4fd646c3a703e1"
     }
   },
   "node": {
