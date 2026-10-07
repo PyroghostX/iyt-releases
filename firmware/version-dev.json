@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.38",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.38/hub_v4_1.26.38.bin",
-    "sha256": "ebf06cdc1c9b896513adc1fa719575b348e8db0fe2e6a450e1ba5ad53fbb3b9d",
-    "notes": "Hub 1.26.38: update-slot cleanup - a retry after a failed hub update starts from a blank slot; the 30-min auto-abort no longer erases during a game",
+    "version": "1.26.39",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.39/hub_v4_1.26.39.bin",
+    "sha256": "e63d189dea72c61ba3bce0d0a6c6cf5f0e9021190b49661f2d6f131de07a33bb",
+    "notes": "Hub 1.26.39: low battery shows on the hub (red LED, LOW BATTERY screen, beeps)",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.38/hub_v4_1.26.38.bin",
-      "sha256": "ebf06cdc1c9b896513adc1fa719575b348e8db0fe2e6a450e1ba5ad53fbb3b9d"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.39/hub_v4_1.26.39.bin",
+      "sha256": "e63d189dea72c61ba3bce0d0a6c6cf5f0e9021190b49661f2d6f131de07a33bb"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.38/hub_v3_1.26.38.bin",
-      "sha256": "39fac3a27ffe04f8b1998d48c975c7921c2f3426d3b6935361e0f066824c3177"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.39/hub_v3_1.26.39.bin",
+      "sha256": "beac6dea7577c5af0b357c533b456a00af364b604f952f9efcf5607e97040941"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.38/hub_v5_1.26.38.bin",
-      "sha256": "4f195df5041b5e358632f62d0aa827425e43e27229d7ec4318226edb76cdb980"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.39/hub_v5_1.26.39.bin",
+      "sha256": "efbc35dd8eb37785b92cacc4a56b8b530552ca4f651ee3816c8e7f0817966e92"
     }
   },
   "node": {
