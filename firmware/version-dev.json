@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.41",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.41/hub_v4_1.26.41.bin",
-    "sha256": "396eae300471b7a2d135827fbd1cd754d2491fa85a52d9671f7a91575e7c684c",
-    "notes": "One pairing popup on Android: the hub waits 1.5 s before its Security Request so app 1.12.69 can bond first; iOS unchanged.",
+    "version": "1.26.42",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.42/hub_v4_1.26.42.bin",
+    "sha256": "fd7e61d494e509054ca64fbaa5a7e5c6386523ff579c72f2d8b2c6e5c0215eb2",
+    "notes": "Phone-started pairing: the hub's own Security Request now waits 8 s (1.26.41's 1.5 s lost the race on a Galaxy Fold); pairs with app 1.12.70.",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.41/hub_v4_1.26.41.bin",
-      "sha256": "396eae300471b7a2d135827fbd1cd754d2491fa85a52d9671f7a91575e7c684c"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.42/hub_v4_1.26.42.bin",
+      "sha256": "fd7e61d494e509054ca64fbaa5a7e5c6386523ff579c72f2d8b2c6e5c0215eb2"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.41/hub_v3_1.26.41.bin",
-      "sha256": "f2f33f56d2ab45f164e60bed3bf7576946f4bd96657d409d5012246381d80e33"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.42/hub_v3_1.26.42.bin",
+      "sha256": "aa5055dfb1b124811a9404cc1fd07471f461e7f2534303021bdc8f94531c1188"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.41/hub_v5_1.26.41.bin",
-      "sha256": "8b6ae7a637c74fbad974ce9e156fbdce7b49fe2b509fe86de57e2ec63bbedbed"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.42/hub_v5_1.26.42.bin",
+      "sha256": "3b3a306aafee47cd733849174f8c440418349c14f693df500dabfd1cc9b3d629"
     }
   },
   "node": {
