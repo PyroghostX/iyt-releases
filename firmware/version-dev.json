@@ -18,19 +18,19 @@
     }
   },
   "node": {
-    "version": "1.26.37",
-    "notes": "Node 1.26.37: audit fix - Keep awake ends when a button is unpaired",
+    "version": "1.26.46",
+    "notes": "Low-battery warning flashes so it shows on a red LED",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/node_v4_1.26.37.bin",
-      "sha256": "4ed602637f6717dae0dbc11702b545e8749db7a4de6fbfad3eead7b75ea058dc"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.46/node_v4_1.26.46.bin",
+      "sha256": "446f5815a7432c179ed5abd70e34f5a7807fad6f264d4920a37ecf4b0c75e0e3"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/node_v3_1.26.37.bin",
-      "sha256": "cc3931679244fcf0cc835b96b29051a58bce0046f376fc4921f8260dd0853450"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.46/node_v3_1.26.46.bin",
+      "sha256": "2a38dd518f00563abf9ba57511ddec373ebbd58ddb2aade59c83e43060f560f8"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.37/node_v5_1.26.37.bin",
-      "sha256": "c57812b6a7a0176e3ec9d98848574b4a6de6e7a9b57d9fb087e17bf2e5ae1df0"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.46/node_v5_1.26.46.bin",
+      "sha256": "ff6eaf87327b5525d8593677f2f8f4e9b01ace20b29ee85b12b91c6f63716825"
     }
   }
 }
