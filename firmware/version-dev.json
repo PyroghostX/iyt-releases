@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.46",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.46/hub_v4_1.26.46.bin",
-    "sha256": "e4e57fd23a7c413c6940c19c42d02cd2ee39b81ccb5045c5975729d78a9bf1ac",
-    "notes": "Low-battery warning flashes so it shows on a red LED",
+    "version": "1.26.61",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.61/hub_v4_1.26.61.bin",
+    "sha256": "0e28d4a935d869d04ce95eaa0eec103594ede1095ffd7e2593c3aa106fb3fe4a",
+    "notes": "Hub 1.26.61",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.46/hub_v4_1.26.46.bin",
-      "sha256": "e4e57fd23a7c413c6940c19c42d02cd2ee39b81ccb5045c5975729d78a9bf1ac"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.61/hub_v4_1.26.61.bin",
+      "sha256": "0e28d4a935d869d04ce95eaa0eec103594ede1095ffd7e2593c3aa106fb3fe4a"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.46/hub_v3_1.26.46.bin",
-      "sha256": "64e95def3fabde3878f7fb15ec05976a2b3aab583497cd02d0d6e2c8b35779e5"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.61/hub_v3_1.26.61.bin",
+      "sha256": "fe3f8ca101db82e357eed49f986ee75cff2286a8e8f865cb663e0f1da4cd2de9"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.46/hub_v5_1.26.46.bin",
-      "sha256": "be4a0983f65f9becf2a6d182719d14b03dbb4da10f5bd645c9e4408ddf061ee3"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.61/hub_v5_1.26.61.bin",
+      "sha256": "e7edac4b0bd068a291569006abe3ce74028fc6040302fb0f8da9450e5c7d8da8"
     }
   },
   "node": {
