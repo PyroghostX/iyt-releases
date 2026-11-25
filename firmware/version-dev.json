@@ -1,20 +1,20 @@
 {
   "hub": {
-    "version": "1.26.107",
-    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.107/hub_v4_1.26.107.bin",
-    "sha256": "ddc485d021e89316b8f8de47246e3b38c18820c8797a76af34bff41938e5ceba",
-    "notes": "Game kept when the hub is switched off; any player can nudge; hub settings kept across restarts",
+    "version": "1.26.108",
+    "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.108/hub_v4_1.26.108.bin",
+    "sha256": "8a4344b2b6635e8f679da79c39ee9160f4d6edd1154657363e42f5d4fcae0929",
+    "notes": "Several people on one button or phone; nudge sounds; last game's stats for every phone",
     "v4": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.107/hub_v4_1.26.107.bin",
-      "sha256": "ddc485d021e89316b8f8de47246e3b38c18820c8797a76af34bff41938e5ceba"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.108/hub_v4_1.26.108.bin",
+      "sha256": "8a4344b2b6635e8f679da79c39ee9160f4d6edd1154657363e42f5d4fcae0929"
     },
     "v3": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.107/hub_v3_1.26.107.bin",
-      "sha256": "fba079d8f9f165c15c32e7132f8389ffa34bf909f12f4ec7b50da2141c1bcbc9"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.108/hub_v3_1.26.108.bin",
+      "sha256": "b263ceb977362582fa0a1c3d3d9e741a493a004791c43084a47868cb24d5b041"
     },
     "v5": {
-      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.107/hub_v5_1.26.107.bin",
-      "sha256": "8b1b746fb882bdf8c0dc651c771566c7aaf100db78286c79d0d88a41635bce07"
+      "url": "https://github.com/PyroghostX/iyt-releases/releases/download/v1.26.108/hub_v5_1.26.108.bin",
+      "sha256": "34019db1b55811a698ed1dbc5f2f3c56228be08b4e8e593c2fb23be9a1225483"
     }
   },
   "node": {
